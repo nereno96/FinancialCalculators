@@ -1,0 +1,33 @@
+header{
+    font-family: Tahoma, Verdana, sans-serif;
+    padding: 20px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: 600;
+}
+
+.navbar{
+    background: rgb(235, 235, 235);
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.nav-link{
+    color: black;
+}
+
+.navbar-toggler{
+    color: black;
+}
+
+.overnavbar{
+    margin-bottom: 0px;
+}
+
+main {
+    padding: 30px;
+}
+
+.btn-info{
+    background-color: #0275d8;
+}
